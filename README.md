@@ -75,8 +75,8 @@ Options available in play.py:
 
 ### Policy Comparison Results
 
-| Policy | Mean Reward | Std Deviation | Performance Analysis |
-|--------|-------------|---------------|---------------------|
+| Policy | Mean Reward | Std Deviation | 
+|--------|-------------|---------------|
 | **CNNPolicy** | 8.80 ± 2.32 | Consistent, reliable performance with low variance |
 | **MLPPolicy** | 11.60 ± 9.24 | Higher peak performance but more variable |
 | **Final MLP Model** | 8.40 ± 8.72 | Strong performance with breakthrough potential |
@@ -91,7 +91,7 @@ Options available in play.py:
 
 **Agent Playing Space Invaders:**
 
-[![Space Invaders DQN Agent]](https://drive.google.com/file/d/1Sji0hIVgMughkbxMOjPlumfJi5t35Sz_/view?usp=sharing)
+[[Space Invaders DQN Agent]](https://drive.google.com/file/d/1Sji0hIVgMughkbxMOjPlumfJi5t35Sz_/view?usp=sharing)
 
 
 ### Video Highlights:
