@@ -91,7 +91,7 @@ Options available in play.py:
 
 **Agent Playing Space Invaders:**
 
-[![Space Invaders DQN Agent](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Space Invaders DQN Agent]](https://drive.google.com/file/d/1Sji0hIVgMughkbxMOjPlumfJi5t35Sz_/view?usp=sharing)
 
 
 ### Video Highlights:
@@ -193,4 +193,5 @@ This project demonstrates:
                   2. Juliana Holder
                   3. Fidel Impano
                   4. Ines Ikirezi 
+
 **Date:** July 20, 2025
