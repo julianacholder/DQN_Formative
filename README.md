@@ -174,6 +174,23 @@ This project demonstrates:
 - Hyperparameter tuning through team experimentation
 - Results analysis and interpretation completed together
 - Video creation and demonstration coordinated across team
+  
+### Group Collaboration and Individual Contribution
+
+| **Task**                                 | **Workload Description**                                                           | **Assigned Member** |
+| ---------------------------------------- | ----------------------------------------------------------------------------------- | --------------- |
+| **. Hyperparameter Tuning**             | Tuning `lr`, `gamma`, `batch_size`, `epsilon_start`, `epsilon_end`, `epsilon_decay` | **All**         |
+| **. Hyperparameter Set Documentation**  | Recording the configurations and behav outcomes in a table                           | **All**         |
+| **Task 1: Training Script (`train.py`)** |                                                                                     |                 |
+| - Define the Agent                       | Setting up DQN agent using Stable Baselines3 with MLPPolicy and CNNPolicy               | **Fidel**       |
+| - Compare Policies                       | Training with both policies and compare performance                                    | **Benaiah**       |
+| - Train the Agent                        | Training agent in Atari environment, log reward trends and episode lengths             | **Juliana**     |
+| - Save Model & Logging                   | Saved trained model (`dqn_model.zip`) and implement training logs                    | **Ines**     |
+| **Task 2: Playing Script (`play.py`)**   |                                                                                     |                 |
+| - Load Trained Model                     | Using `DQN.load()` to load the saved model                                            | **Ines**        |
+| - Set Up the Environment                 | Initializing Atari environment used during training                                   | **Fidel**        |
+| - Use GreedyQPolicy                      | Applying `GreedyQPolicy` for evaluation phase                                          | **Benaiah**     |
+| - Display the Game                       | Visualize agent’s performance using `env.render()`                                  | **Juliana**     |
 
 
 ## Achievement Summary
